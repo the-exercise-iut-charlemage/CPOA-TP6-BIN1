@@ -12,7 +12,7 @@ import java.awt.event.ActionListener;
  */
 public class Controler implements ActionListener {
 	/**
-	 * Le modèle est attribut du controleur
+	 * Le modï¿½le est attribut du controleur
 	 */
 	private Model model;
 	
@@ -30,7 +30,7 @@ public class Controler implements ActionListener {
 	 * lancee quand un evenement a lieu sur un des 
 	 * composants sous ecoute - ici les 2 boutons
 	 * 
-	 * @param e ActionEvent obtenu après clic 
+	 * @param e ActionEvent obtenu aprï¿½s clic 
 	 * sur un des deux boutons
 	 */
 	public void actionPerformed(ActionEvent e) {
