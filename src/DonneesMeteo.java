@@ -1,5 +1,3 @@
-package stationmeteo_observateur;
-
 import java.util.*;
 
 /**

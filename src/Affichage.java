@@ -1,6 +1,3 @@
-package stationmeteo_observer;
-
-
 /**
  * Interface pour les differents affichages
  *

@@ -1,5 +1,3 @@
-package stationmeteo_observateur;
-
 /**
  * Classe permettant l'affichage des previsions meteo en fonction 
  * des elements fournis  par la classe DonneesMeteo selon le patron Observateur
@@ -28,7 +26,7 @@ public class AffichagePrevisions implements Observateur, Affichage {
 	
 	/**
 	 * Actualise les attributs 
-	 * methode appelee par le sujet à chaque modification
+	 * methode appelee par le sujet ï¿½ chaque modification
 	 * 
 	 * @param temperature 
 	 * @param humidite

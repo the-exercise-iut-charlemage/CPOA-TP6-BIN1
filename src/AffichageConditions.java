@@ -1,5 +1,3 @@
-package stationmeteo_observateur;
-
 /**
  * Classe permettant l'affichage des conditions meteo courantes
  * fournies par la classe StationMeteo selon le patron Observateur
@@ -30,7 +28,7 @@ public class AffichageConditions implements Observateur, Affichage {
 	
 	/**
 	 * Actualise les attributs 
-	 * methode appelee par le sujet à chaque modification
+	 * methode appelee par le sujet ï¿½ chaque modification
 	 * 
 	 * @param temperature 
 	 * @param humidite

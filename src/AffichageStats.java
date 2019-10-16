@@ -1,6 +1,3 @@
-package stationmeteo_observateur;
-
-
 /**
  * Classe permettant l'affichage de statistiques meteo en fonction 
  * des elements fournis  par la classe DonneesMeteo selon le patron Observateur

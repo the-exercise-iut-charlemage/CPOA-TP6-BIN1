@@ -1,7 +1,3 @@
-package stationmeteo_observer;
-
-
-
 public class StationMeteo {
 
 	public static void main(String[] args) {

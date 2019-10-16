@@ -1,5 +1,3 @@
-package stationmeteo_observateur;
-
 /**
  * Interface pour les differents observateurs de Sujet
  *
