@@ -15,9 +15,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-
 public class Principale {
-
 
 	 public static void main(String[] args) { 
 		 	
@@ -28,7 +26,7 @@ public class Principale {
 		 saisie= new JTextField(10);
 		 saisie.setPreferredSize(new Dimension(200,30));
 		 JPanel panneauDeControle= new JPanel(new GridLayout(1,2));
-		 panneauDeControle.add(new JLabel("Donner une chaîne "+"    ",JLabel.CENTER));
+		 panneauDeControle.add(new JLabel("Donner une chaï¿½ne "+"    ",JLabel.CENTER));
 		 panneauDeControle.add(saisie);
 
 		 //Zone centrale
@@ -52,10 +50,8 @@ public class Principale {
 		 frame.getContentPane().add(panMaxMin,BorderLayout.SOUTH);
 		 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		 frame.setSize(new Dimension(400,400));
-		 frame.setVisible(true);	
-		
+		 frame.setVisible(true);
 	}
-
 } 
 
 
